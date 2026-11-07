@@ -1,0 +1,8 @@
+notebook/notebook.html
+*.bin
+a.out
+/A
+08-esqueletos/in.txt
+08-esqueletos/o1.txt
+08-esqueletos/o2.txt
+__pycache__/
